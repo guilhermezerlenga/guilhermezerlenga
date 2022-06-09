@@ -15,6 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guizerlenga) -->
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermezerlenga&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermezerlenga)](https://github.com/guilhermezerlenga/github-readme-stats)
 
 ### Tecnologias que utilizo
 
@@ -24,5 +25,5 @@
   <img align=center alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermezerlenga)](https://github.com/guilhermezerlenga/github-readme-stats)
+
   
